@@ -1,1 +1,3 @@
-## A New Post\n\nEnter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+On keeping animals for your garden. 
+
+http://www.vegetablegardener.com/item/4826/raising-animals-as-gardening-allies
