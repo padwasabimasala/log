@@ -29,6 +29,8 @@ lou = Lou::Base.new(Person).parse(params)
 
 result = Lou.new(Person).parse(params)
 
+result = Lou.new(Person, restrictions).parse(params)
+
 result = Lou.parse(Person, params)
 
 res = Lou.query(Person, params)
